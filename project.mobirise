@@ -619,10 +619,11 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#f9fafb"
+              "color": "#f9fafb",
+              "text-align": "right"
             },
             ".mbr-timeline-title": {
-              "color": "#d75959"
+              "color": "#ffffff"
             },
             ".mbr-timeline-date": {
               "color": "#e6eaf1"

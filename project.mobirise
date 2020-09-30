@@ -61,11 +61,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "CARE FOR OTHERS performative research",
+        "meta_descr": "The social reality is performative. Social phenomenons appear because we affirm them and we organize ourselves to act in the direction of their apparition. They are not like mountains, volcanoes, oceans, birds, that exist independently of our words, actions, desires. Social phenomenon are more similar to collective dreams. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/front%20page-1366x768.jpg"
       },
       "components": [
         {
